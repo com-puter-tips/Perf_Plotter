@@ -1,0 +1,6 @@
+{
+  "name": "Perf plotter",
+  "tagline": "Visualizing system performance for your appliation.",
+  "body": "# Perf_Plotter\r\nVisualizing system performance for your appliation.\r\n\r\nThis is a tool that will help you benchmark the performance of your application. It has two parts: A logging mechanism buint in C# and plotting utility made in R. A windows forms in C# is created so you can execute your application from it and log the data in a csv file. This csv file you have to upload in shiny web application in R so it can read it and plot it. For more information refer my paper:\r\nhttps://www.irjet.net/archives/V3/i3/IRJET-V3I3193.pdf\r\n\r\nPerf_Plotter.zip file contains two folders and one file. It is as following:\r\n\r\n1. perfloggengui directory\r\n\r\n2. Uploads directory\r\n\r\n3. app.R file\r\n\r\n(1) perfloggengui\r\n\r\nIt contains C# solution for generating logs from your application.\r\n\r\n(2) Uploads\r\n\r\nIt has sample log files to get you started with.\r\n\r\n(3) app.R\r\n\r\nIt is the shiny app that you are supposed to run in R.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

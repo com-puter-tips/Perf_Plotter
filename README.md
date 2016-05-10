@@ -10,10 +10,13 @@ Perf_Plotter.zip file contains two folders and one file. It is as following:
 3. app.R file
 
 (1) perfloggengui
+
 It contains C# solution for generating logs from your application.
 
 (2) Uploads
+
 It has sample log files to get you started with.
 
 (3) app.R
+
 It is the shiny app that you are supposed to run in R.

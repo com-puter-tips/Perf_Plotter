@@ -23,3 +23,9 @@ It has sample log files to get you started with.
 (3) app.R
 
 It is the shiny app that you are supposed to run in R.
+
+Links to this project:
+
+https://github.com/devharsh/Perf_Plotter
+
+http://devharsh.github.io/Perf_Plotter/

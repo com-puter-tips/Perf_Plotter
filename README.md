@@ -5,8 +5,11 @@ This is a tool that will help you benchmark the performance of your application.
 https://www.irjet.net/archives/V3/i3/IRJET-V3I3193.pdf
 
 Perf_Plotter.zip file contains two folders and one file. It is as following:
+
 1. perfloggengui directory
+
 2. Uploads directory
+
 3. app.R file
 
 (1) perfloggengui

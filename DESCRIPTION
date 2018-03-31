@@ -1,0 +1,2 @@
+Package: R-Perf-Plot
+Imports: shiny, shinyjs, shinydashboard, plotly, readr

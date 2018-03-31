@@ -1,2 +1,5 @@
 language: r
-script: true
+sudo: false
+dist: trusty
+cache: packages
+latex: false

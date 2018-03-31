@@ -1,10 +1,9 @@
 ![Build Status](https://travis-ci.org/devharsh/Perf_Plotter.svg?branch=master) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # Perf_Plotter
-Visualizing system performance for your appliation.
+### Visualizing system performance for your appliation.
 
-This is a tool that will help you benchmark the performance of your application. It has two parts: A logging mechanism buint in C# and plotting utility made in R. A windows forms in C# is created so you can execute your application from it and log the data in a csv file. This csv file you have to upload in shiny web application in R so it can read it and plot it. For more information refer my paper:
-https://www.irjet.net/archives/V3/i3/IRJET-V3I3193.pdf
+This is a tool that will help you benchmark the performance of your application. It has two parts: A logging mechanism buint in C# and plotting utility made in R. A windows forms in C# is created so you can execute your application from it and log the data in a csv file. This csv file you have to upload in shiny web application in R so it can read it and plot it. For more information refer my paper: [https://www.irjet.net/archives/V3/i3/IRJET-V3I3193.pdf](https://www.irjet.net/archives/V3/i3/IRJET-V3I3193.pdf)
 
 Perf_Plotter.zip file contains two folders and one file. It is as following:
 
@@ -26,8 +25,8 @@ It has sample log files to get you started with.
 
 It is the shiny app that you are supposed to run in R.
 
-Links to this project:
+## Links to this project:
 
-https://github.com/devharsh/Perf_Plotter
+* [https://github.com/devharsh/Perf_Plotter](https://github.com/devharsh/Perf_Plotter)
 
-http://devharsh.github.io/Perf_Plotter/
+* [http://devharsh.github.io/Perf_Plotter/](http://devharsh.github.io/Perf_Plotter/)

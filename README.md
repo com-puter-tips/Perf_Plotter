@@ -30,3 +30,13 @@ It is the shiny app that you are supposed to run in R.
 * [https://github.com/devharsh/Perf_Plotter](https://github.com/devharsh/Perf_Plotter)
 
 * [http://devharsh.github.io/Perf_Plotter/](http://devharsh.github.io/Perf_Plotter/)
+
+
+## Cite
+```
+@article{trivedi2016performance,
+  title={Performance Evaluation of any Application with C\# and R},
+  author={Trivedi, Devharsh},
+  year={2016}
+}
+```
